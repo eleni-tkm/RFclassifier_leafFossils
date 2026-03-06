@@ -127,7 +127,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 # ============================================================
 
 # ---- Parameter justification ----
-# n_estimators=500:
+# n_estimators=1000:
 #   More trees → lower variance and more stable predictions on tabular data.
 #   Fossil morphology features have nonlinear interactions → RF benefits from many trees.
 #
