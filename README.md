@@ -1,5 +1,5 @@
 # Leaf Classification Using Random Forests
-*A **synthetic** morphometric dataset for leaf identification*
+*A **synthetic** morphometric dataset (LLM-generated) for leaf identification*
 
 ---
 
