@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-This repository contains a **synthetic leaf morphometric dataset** and an accompanying **Random Forest classification pipeline**.  
+This repository contains a **synthetic leaf morphometric dataset** (`fossil_leaf_dummy_dataset.csv`) and an accompanying **Random Forest classification pipeline** (`randomForesClassifier.py`).  
 The project demonstrates how machine‑learning models can help classify leafs using **quantitative shape descriptors**, **leaf architectural features**, and **encoded botanical qualitative traits**.
 
 This README explains:
